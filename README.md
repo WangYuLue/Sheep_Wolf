@@ -292,6 +292,11 @@ public class Wolf {
 	}
 }
 ```
-- **下面是演示的图片**
-![image](http://a2.qpic.cn/psb?/V12bbgM44XwJj7/jDh1MPeAzJajdA4aPxxJtm2KkJ25rQGYrYDBUxL5E7k!/m/dN0AAAAAAAAAnull&bo=twSAAgAAAAADBxM!&rf=photolist&t=5)
+- **下面是狼与羊的数量变化曲线图**
+
+![图1](./images/1.PNG)
+![图2](./images/2.PNG)
+![图3](./images/3.PNG)
+![图4](./images/4.PNG)
+![图5](./images/5.PNG)
 
